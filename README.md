@@ -238,7 +238,7 @@ people.html
                                         <div class="peopleimage">
                                         <img src="./img/P6.jpg" alt="people6 image">
                                         </div>
-                                        <div class="peoplename">Ms.Olivia</div>
+                                        <div class="peoplename">Ms.Lathikeshwaran</div>
                                         <div class="peoplepos">CFO</div>
                      </div>
 
